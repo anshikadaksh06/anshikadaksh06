@@ -26,7 +26,7 @@ Minimal and responsive blog built for devs, supporting Markdown, dark mode, and 
 ### ⏱ React Stopwatch – Precision Timer UI  
 A clean and functional stopwatch with start, pause, reset, and millisecond precision.  
 *Tech Stack:* React, CSS · Deployed on Vercel  
-🔗 [GitHub](https://github.com/anshikadaksh06/react-stopwatch)
+🔗 [GitHub](https://anshikadaksh06.github.io/Stop-Watch/)
 
 ### ☁ WeatherNow – Real-Time Weather App  
 Search any city for weather data using OpenWeatherMap, toggle between °C/°F, with weather icons.  
