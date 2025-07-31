@@ -11,14 +11,35 @@
 - 📚 Domains: Machine Learning, Web Dev, Cyber Security, Mental Health AI
 
 ---
+## 🚀 Featured Projects
 
-#### 🚧 Projects I'm Proud Of:
-- 🧠 **TheraBot** – An AI-based mental health chatbot
-- 🌐 **DevBoard** – A personal developer portfolio generator
-- 🛡️ Ethical hacking scripts & tools (because 🔐 is 🔑)
-- 💬 **SafeTalk** – Anonymous Mental Health Chat App
+### 🛒 VendorStreet – Raw Material Sourcing App for Street Vendors  
+A full-stack web app to help street food vendors easily source fresh, affordable raw materials from local suppliers.  
+**Tech Stack:** React.js, Tailwind, Node.js, Express, MongoDB  
+🔗 [GitHub Repo](https://github.com/anshikadaksh06/vendorstreet) 
 
----
+### 📝 Blogify – Markdown Developer Blog  
+Minimal and responsive blog built for devs, supporting Markdown, dark mode, and tags.  
+*Tech Stack:* Next.js, Tailwind CSS · Deployed on Vercel  
+🔗 [Live Demo](https://blogify-anshika.vercel.app) · [GitHub](https://github.com/anshikadaksh06/blogify)
+
+### ⏱ React Stopwatch – Precision Timer UI  
+A clean and functional stopwatch with start, pause, reset, and millisecond precision.  
+*Tech Stack:* React, CSS · Deployed on Vercel  
+🔗 [GitHub](https://github.com/anshikadaksh06/react-stopwatch)
+
+### ☁ WeatherNow – Real-Time Weather App  
+Search any city for weather data using OpenWeatherMap, toggle between °C/°F, with weather icons.  
+*Tech Stack:* React, REST API · Deployed on Vercel  
+🔗 [GitHub](https://github.com/anshikadaksh06/weather-now)
+
+### 🔐 CyberHawk – Ethical Hacking Tools Collection  
+A curated suite of Python scripts for basic ethical hacking, network scanning, and password testing (for educational use only).  
+**Tech Stack:** Python, Bash, Wireshark, Nmap  
+
+### 💬 TheraBot – AI Mental Health Chatbot  
+An AI-powered chatbot that provides mental health support through anonymous chat, using sentiment analysis and NLP.  
+**Tech Stack:** Python, Flask, OpenAI API, HTML/CSS/JS  
 
 #### 🌱 Currently Learning:
 `#DataScience` `#ReactJS` `#LLMs` `#CloudComputing` and trying to remember what sleep is 🥲
@@ -34,7 +55,7 @@
 ---
 
 #### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Daksh-blue?style=flat&logo=linkedin)](www.linkedin.com/in/anshikadaksh06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Daksh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshikadaksh06)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox-browser)](https://your-portfolio-link.com)
 [![Gmail](https://img.shields.io/badge/Email-anshikadaksh06@gmail.com-red?style=flat&logo=gmail)](mailto:anshikadaksh06@gmail.com)
 
