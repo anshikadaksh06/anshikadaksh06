@@ -18,6 +18,11 @@ A full-stack web app to help street food vendors easily source fresh, affordable
 **Tech Stack:** React.js, Tailwind, Node.js, Express, MongoDB  
 🔗 [GitHub Repo](https://github.com/anshikadaksh06/vendorstreet) 
 
+### ☁ WeatherNow – Real-Time Weather App  
+Search any city for weather data using OpenWeatherMap, toggle between °C/°F, with weather icons.  
+*Tech Stack:* React, REST API · Deployed on Vercel  
+🔗 [GitHub](https://anshikadaksh06.github.io/weather-app/)
+
 ### 📝 Blogify – Markdown Developer Blog  
 Minimal and responsive blog built for devs, supporting Markdown, dark mode, and tags.  
 *Tech Stack:* Next.js, Tailwind CSS · Deployed on Vercel  
@@ -26,12 +31,7 @@ Minimal and responsive blog built for devs, supporting Markdown, dark mode, and 
 ### ⏱ React Stopwatch – Precision Timer UI  
 A clean and functional stopwatch with start, pause, reset, and millisecond precision.  
 *Tech Stack:* React, CSS · Deployed on Vercel  
-🔗 [GitHub](https://anshikadaksh06.github.io/Stop-Watch/)
-
-### ☁ WeatherNow – Real-Time Weather App  
-Search any city for weather data using OpenWeatherMap, toggle between °C/°F, with weather icons.  
-*Tech Stack:* React, REST API · Deployed on Vercel  
-🔗 [GitHub](https://github.com/anshikadaksh06/weather-now)
+🔗 [GitHub]( https://anshikadaksh06.github.io/Stop-Watch/)
 
 ### 🔐 CyberHawk – Ethical Hacking Tools Collection  
 A curated suite of Python scripts for basic ethical hacking, network scanning, and password testing (for educational use only).  
@@ -55,9 +55,9 @@ An AI-powered chatbot that provides mental health support through anonymous chat
 ---
 
 #### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Daksh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshikadaksh06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Daksh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anshikadaksh06/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox-browser)](https://your-portfolio-link.com)
-[![Gmail](https://img.shields.io/badge/Email-anshikadaksh06@gmail.com-red?style=flat&logo=gmail)](mailto:anshikadaksh06@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-anshikadaksh06@gmail.com-red?style=flat&logo=gmail)](mailto:anshikadaksh2004@gmail.com)
 
 ---
 
