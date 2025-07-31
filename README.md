@@ -1,4 +1,4 @@
-### 🌸 Hey there! I'm Anshika Daksh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### 🧠 Hey there! I'm Anshika Daksh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 > 🎓 B.Tech CSE (AI) Student | 🤖 AI/ML Enthusiast | 💻 Ethical Hacker | 🚀 Full Stack Devoloper
 > ✨ Turning coffee ☕ into code & chaos into creativity 💡
